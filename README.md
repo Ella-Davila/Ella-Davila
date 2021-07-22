@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LilooM²ultipass
+- 👋 Hi, I’m @LilooMultipass
 - 👀 I’m interested in learning programmation
 - 🌱 I’m currently learning the foundation
 - 💞️ I’m looking to collaborate on nothing for the moment, i just start
